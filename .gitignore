@@ -1,0 +1,5 @@
+*.o
+*.exe
+.vscode*
+main
+savegame.txt

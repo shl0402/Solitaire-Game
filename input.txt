@@ -1,0 +1,13 @@
+Available user input
+e,f,r,u, 7h(to move 7 of h), 7hs (to specify moving 7 of heart to stack, if available)
+----------------
+1. Flip the stock deck
+    - enter 'f'
+2. Move card
+    - enter the name of card, i.e. "7s" means 7 of Spade
+    - {'d', 'c', 'h', 's'} for Diamond, Club, Heart, Spade
+3. Specify moving to stack
+    - enter the name of card + 's', i.e. "7ss"
+4. 'e' for exit
+5. 'u' for undo
+6. 'r' for redo
